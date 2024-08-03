@@ -1,0 +1,9 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+    "ghcr.io/devcontainers-contrib/features/apt-packages:1": {},
+    "ghcr.io/devcontainers/features/python:1": {},
+    "ghcr.io/raucha/devcontainer-features/pytorch:1": {},
+    "ghcr.io/devcontainers-contrib/features/curl-apt-get:1": {}
+  }
+}
